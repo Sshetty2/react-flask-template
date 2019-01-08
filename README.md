@@ -1,4 +1,7 @@
-#  CLONED Angela Juvet Branæs'S GITHUB https://github.com/angineering/FullStackTemplate
+#  CLONED FROM Angela Juvet Branæs'S GITHUB https://github.com/angineering/FullStackTemplate 1/8/19
+
+
+
 
 
 # Creating a Full Stack Web Application with Python, NPM, Webpack and React
