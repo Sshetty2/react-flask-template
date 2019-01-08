@@ -1,3 +1,6 @@
+THIS REPOSITORY WAS CLONED Angela Juvet Branæs'S GITHUB https://github.com/angineering/FullStackTemplate
+
+
 # Creating a Full Stack Web Application with Python, NPM, Webpack and React
 
 This project shows you how to build a basic web application using popular web technologies 
