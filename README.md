@@ -1,4 +1,4 @@
-THIS REPOSITORY WAS CLONED Angela Juvet Branæs'S GITHUB https://github.com/angineering/FullStackTemplate
+#  CLONED Angela Juvet Branæs'S GITHUB https://github.com/angineering/FullStackTemplate
 
 
 # Creating a Full Stack Web Application with Python, NPM, Webpack and React
